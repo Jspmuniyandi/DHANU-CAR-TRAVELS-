@@ -1,27 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>DHANU CAR TRAVELS</title>
-</head>
+# 🚖 DHANU CAR TRAVELS
 
-<body style="font-family:Arial; text-align:center;">
+## Your Trusted Travel Partner
 
-<h1>🚖 DHANU CAR TRAVELS</h1>
+## All India Taxi Service 
 
-<p>Your Trusted Travel Partner</p>
+DHANU CAR TRAVELS provides safe, fast and reliable taxi services across Tamil Nadu and South India.
 
-<p>All India Taxi Service</p>
+### 🚗 Our Services
+- One Way Taxi
+- Round Trip
+- Airport Pickup & Drop
+- Outstation Travel
+- Tour Packages
 
-<h3>Our Services</h3>
+### 📍 Service Area
+All India Taxi Service | Tamil Nadu | South India
 
-<p>
-✅ One Way Trip <br>
-✅ Round Trip <br>
-✅ Airport Pickup & Drop <br>
-✅ Outstation Travel
-</p>
+### 📞 Contact
+Call / WhatsApp: +91 9688599369
 
-<p><b>Call / WhatsApp:</b> +91 9688599369</p>
+---
 
-</body>
-</html>
+⭐ Safe | Fast | Reliable Travel Service
